@@ -120,6 +120,25 @@ void setup() {
 
 ````
 
+At last I would like to tell you something about PCB 
 
+Yes PCB are the heart of the electronics based project usually we hesitate to try custom PCB and opt to homemade solutions
+
+like breadboard or Zero PCB earlier I also was in the same boat, I hesitate to try custom PCB my belief was they are much expensive.
+
+but then I came to know about [JLCPCB.com](https://jlcpcb.com/IAT) and I was totally surprised how low price PCB's are they offering 
+
+there PCB quality is best in market, now I always go with PCB for my project and [JLCPCB.com](https://jlcpcb.com/IAT) is my trusted 
+
+PCB manufacturer, you can also try there PCB service for more details you can visit their website [JLCPCB.com](https://jlcpcb.com/IAT)
+
+I new user sign up using the given link will get welcome coupons from [JLCPCB.com](https://jlcpcb.com/IAT)
+
+
+
+![image](https://user-images.githubusercontent.com/19898602/130722559-0080ae28-08c6-4ad1-9522-e8571cfabbef.png) ![image](https://user-images.githubusercontent.com/19898602/130722577-c30b7b43-ea89-4847-9c6b-058f9fabeda3.png)
+
+
+![image](https://user-images.githubusercontent.com/19898602/130722585-b5268db1-5f17-428f-ba60-b823140f2a70.png)
 
 
